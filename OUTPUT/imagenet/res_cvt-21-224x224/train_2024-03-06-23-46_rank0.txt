@@ -1,0 +1,6 @@
+2024-03-06 23:46:46,406:[P:83729]:Rank[0/1] Trainable Model Total Parameter: 	170.8M
+2024-03-06 23:46:47,041:[P:83729]:Rank[0/1] => start training
+2024-03-06 23:46:47,053:[P:83729]:Rank[0/1] => Epoch[0]: epoch start
+2024-03-06 23:46:47,054:[P:83729]:Rank[0/1] => Epoch[0]: train start
+2024-03-06 23:46:47,054:[P:83729]:Rank[0/1] => switch to train mode
+2024-03-06 23:48:20,888:[P:83729]:Rank[0/1] => Epoch[0][0/48]: Time 93.812s (93.812s)	Speed 10.9 samples/s	Data 2.066s (2.066s)	Loss 6.94341 (6.94341)	Accuracy@1 0.098 (0.098)	Accuracy@5 0.195 (0.195)	

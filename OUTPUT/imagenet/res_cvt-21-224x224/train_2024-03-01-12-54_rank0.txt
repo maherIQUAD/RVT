@@ -1,0 +1,1 @@
+2024-03-01 12:54:24,514:[P:11293]:Rank[0/1] Trainable Model Total Parameter: 	170.8M

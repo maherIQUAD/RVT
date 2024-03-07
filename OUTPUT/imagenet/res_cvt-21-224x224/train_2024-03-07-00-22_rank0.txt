@@ -1,0 +1,4 @@
+2024-03-07 00:22:03,418:[P:84365]:Rank[0/1] Trainable Model Total Parameter: 	170.8M
+2024-03-07 00:22:03,976:[P:84365]:Rank[0/1] => start training
+2024-03-07 00:22:03,976:[P:84365]:Rank[0/1] => Epoch[0]: epoch start
+2024-03-07 00:22:03,977:[P:84365]:Rank[0/1] => Epoch[0]: train start
